@@ -10,6 +10,7 @@
         <li><a href="https://nuxtjs.org/">Nuxt.js</a></li>
         <li><a href="https://gridsome.org/">Gridsome</a></li>
         <li><a href="https://ghost.org/">Ghost</a></li>
+        <li><a href="https://www.gatsbyjs.org">Gatsby</a></li>
       </ul>
     </div>
   </section>
