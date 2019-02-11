@@ -7,7 +7,7 @@ module.exports = {
     meta: [
       {charset: 'utf-8'},
       {name: 'viewport', content: 'width=device-width, initial-scale=1'},
-      {name: 'title', content: 'Accessible Web Apps'},
+      {name: 'title', content: 'selfhosted.blog'},
       {name: 'msapplication-TileColor', content: '#da532c'},
       {name: 'theme-color', content: '#ffffff'},
       {hid: 'description', name: 'description', content: 'Links, how to\'s and resources for starting your own, selhosted blog'},
@@ -17,9 +17,9 @@ module.exports = {
       {name: 'twitter:creator', content: '@_marcusherrmann'},
       {name: 'twitter:image', content: 'https://selfhosted.blog/logo.png'},
       {name: 'og:image', content: 'https://selfhosted.blog/logo.png'},
-      {name: 'twitter:title', content: 'Acccessible App'},
+      {name: 'twitter:title', content: 'selfhosted.blog'},
       {property: 'twitter:url', content: 'https://selfhosted.blog'},
-      {property: 'og:title', content: 'Accessible Web Apps'}
+      {property: 'og:title', content: 'selfhosted.blog'}
     ],
     link: [
       {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
