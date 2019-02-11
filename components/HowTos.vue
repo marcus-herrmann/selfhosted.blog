@@ -11,6 +11,7 @@
         <li><a href="https://regisphilibert.com/blog/2019/01/from-wordpress-to-hugo-a-mindset-transition/">From WordPress to <b>Hugo</b></a></li>
         <li><a href="http://www.solomon-blog.com/posts/kirby-blog">Set up a new blog using <b>Kirby CMS</b></a></li>
         <li><a href="https://github.com/empress/ember-ghost">Set up a new blog using <b>Ember Ghost</b></a></li>
+        <li><a href="https://medium.com/kata-engineering/headless-wordpress-next-js-what-we-learned-c10abdf80f6a">Headless <b>WordPress + Next.js</b> — What We Learned</a></li>
         </ul>
     </div>
   </section>
